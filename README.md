@@ -1,7 +1,7 @@
 Bridging Ayurveda and AI: Data Standardization for Improved Machine Learning Application
 
 Published in Journal of Neonatal Surgery in 2025 
-Read the paper here:
+Read the paper here:https://www.jneonatalsurg.com/index.php/jns/article/view/3556/3217 
 This research focuses on integrating traditional Ayurvedic medical knowledge with modern Artificial Intelligence through systematic data standardization. The study implements NLP and machine learning techniques (BERT, CNN, and Naïve Bayes) to classify Ayurvedic text and improve model performance using structured datasets.
 
 Project Highlights:
